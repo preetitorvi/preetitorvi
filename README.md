@@ -1,18 +1,22 @@
 <h1>Hi, I'm Preeti! <br/><a href="https://github.com/preetitorvi"></a> <a href="https://www.linkedin.com/in/preetikulkarnitorvi/">Data Analyst</a></h1>
 
-<h2>👨‍💻 Data Analytics Projects using different tools:</h2>
+<h2>👨‍💻 Data Analytics Projects </h2>
 
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<h2>📺  Certifications</h2>
+<h2>📺 Certifications</h2>
 
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/HFAA887879Y6)
 - [Fundamentals of Visualization using Tableau](https://www.coursera.org/account/accomplishments/verify/39HK6RDV4AVF)
 - [Python for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/VAJQ55CVYHA2)
 - [Introduction to Data Analysis using Excel](https://www.coursera.org/account/accomplishments/verify/GPLEGKK9U79T)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<h2>📺  Tableau </h2>
 
 <h2> 🤳 Connect with me:</h2>
 
