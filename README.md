@@ -10,7 +10,14 @@ This repository is to showcase my skills, share projects, and track my progress 
 <h2>👨‍💻 Data Analytics Projects </h2>
 
 - <b>SQL </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Covid 19 Data Exploration
+Code: [COVID Portfolio Project.sql](https://github.com/preetitorvi/preetitorvi/blob/main/Preeti_Kulkarni_Resume.pdf)
+
+Description: The dataset contains records for COVID-19 cases, deaths, and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing, and EDA (exploratory data analysis).
+
+Skills: Table Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+Technology: SQL Server
 - <b>Excel </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Tableau </b>
@@ -23,17 +30,11 @@ This repository is to showcase my skills, share projects, and track my progress 
 - [Fundamentals of Visualization using Tableau](https://www.coursera.org/account/accomplishments/verify/39HK6RDV4AVF)
 - [Python for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/VAJQ55CVYHA2)
 - [Introduction to Data Analysis using Excel](https://www.coursera.org/account/accomplishments/verify/GPLEGKK9U79T)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2>📺  Tableau </h2>
 
 <h2> 🤳 Connect with me:</h2>
 
-
 [<img align="left" alt="PreetiKulkarni | Tableau" width="22px" src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a" />][tableau]
 [<img align="left" alt="PreetiKulkarni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 
 [tableau]: https://public.tableau.com/app/profile/preetikulkarni/vizzes
 [linkedin]: https://linkedin.com/in/preetikulkarnitorvi
