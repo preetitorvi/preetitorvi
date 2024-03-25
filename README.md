@@ -11,15 +11,18 @@ This repository is to showcase my skills, share projects, and track my progress 
 
 - <b>SQL </b>
   - Covid 19 Data Exploration
-Code: [COVID Portfolio Project.sql](https://github.com/preetitorvi/preetitorvi/blob/main/Preeti_Kulkarni_Resume.pdf)
+     Code: [COVID Portfolio Project.sql](https://github.com/preetitorvi/preetitorvi/blob/main/Preeti_Kulkarni_Resume.pdf)
 
-Description: The dataset contains records for COVID-19 cases, deaths, and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing, and EDA (exploratory data analysis).
+     Description: The dataset contains records for COVID-19 cases, deaths, and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data 
+     cleaning and preprocessing, and EDA (exploratory data analysis).
 
-Skills: Table Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+     Skills: Table Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-Technology: SQL Server
+     Technology: SQL Server
+
 - <b>Excel </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+    
 - <b>Tableau </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
