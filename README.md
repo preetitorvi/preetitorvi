@@ -19,6 +19,15 @@ This repository is to showcase my skills, share projects, and track my progress 
 
      Technology: SQL Server
 
+   - <b>Mini Health Analytics Project Code and Dataset </b>: [Mini Health Analytics Project](https://github.com/preetitorvi/Portfolio-Projects/tree/main/SQL%20Project%20Health%20Analytics%20)
+
+     Description: The dataset contains records for health-related logs like BP, weight, blood sugar. This project includes the following steps: data loading, data 
+     cleaning and preprocessing, and EDA (exploratory data analysis).
+
+     Skills: Summary Statistics, CTEs, Temp Tables, Aggregate Functions
+
+     Technology: SQL Server
+
 - <b>Excel </b>
   - <b> Coffee Sales Dashboard in Excel </b>([Coffee Orders Dashboard in Excel](https://github.com/preetitorvi/Portfolio-Projects/tree/main/Coffee%20Orders%20Dashboard%20in%20Excel))
     
