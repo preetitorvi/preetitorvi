@@ -10,8 +10,7 @@ This repository is to showcase my skills, share projects, and track my progress 
 <h2>👨‍💻 Data Analytics Projects </h2>
 
 - <b>SQL </b>
-  - Covid 19 Data Exploration
-     Code: [COVID Portfolio Project.sql](https://github.com/preetitorvi/preetitorvi/blob/main/Preeti_Kulkarni_Resume.pdf)
+  - <b>Covid 19 Data Exploration Code and Datasets </b>: [COVID Portfolio Project.sql](https://github.com/preetitorvi/Portfolio-Projects/tree/main/Covid%20Data%20Exploration)
 
      Description: The dataset contains records for COVID-19 cases, deaths, and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data 
      cleaning and preprocessing, and EDA (exploratory data analysis).
