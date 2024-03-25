@@ -1,4 +1,4 @@
-<h1>Hi, I'm Preeti! <br/><a href="https://github.com/preetitorvi"></a> <a href="https://www.linkedin.com/in/preetikulkarnitorvi/">DataAnalyst</a></h1>
+<h1>Hi, I'm Preeti! <br/><a href="https://github.com/preetitorvi"></a> <a href="https://www.linkedin.com/in/preetikulkarnitorvi/">Data Analyst</a></h1>
 
 <h2>👨‍💻 Data Analytics Projects using different tools:</h2>
 
@@ -17,11 +17,12 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PreetiKulkarni | Tableau" width="22px" src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a" />][tableau]
+[<img align="left" alt="PreetiKulkarni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
+[tableau]: https://public.tableau.com/app/profile/preetikulkarni/vizzes
 [linkedin]: https://linkedin.com/in/preetikulkarnitorvi
 
 <!--
