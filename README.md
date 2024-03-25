@@ -20,10 +20,10 @@ This repository is to showcase my skills, share projects, and track my progress 
      Technology: SQL Server
 
 - <b>Excel </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - <b> Coffee Sales Dashboard in Excel </b>([Coffee Orders Dashboard in Excel](https://github.com/preetitorvi/Portfolio-Projects/tree/main/Coffee%20Orders%20Dashboard%20in%20Excel))
     
 - <b>Tableau </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Click here for my Tableau Public Profile Projects](https://public.tableau.com/app/profile/preetikulkarni/vizzes)
 
 
 <h2>📺 Certifications</h2>
