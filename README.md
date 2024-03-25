@@ -3,7 +3,7 @@ I have an SQL and analytical background working in Oracle Applications Products.
 
 Apart from work, I enjoy attending webinars related to data space, conferences, and meetups and I am always looking for opportunities to expand my knowledge and skills. 
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf](https://github.com/preetitorvi/preetitorvi/blob/main/Preeti_Kulkarni_Resume.pdf).
 
 This repository is to showcase my skills, share projects, and track my progress in Data Analytics topics.
 
