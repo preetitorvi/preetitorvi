@@ -1,10 +1,19 @@
-<h1>Hi, I'm Preeti! <br/><a href="https://github.com/preetitorvi"></a> <a href="https://www.linkedin.com/in/preetikulkarnitorvi/">Data Analyst</a></h1>
+<h1>Hi, I'm Preeti Kulkarni!<br/><a href="https://github.com/preetitorvi"></a> <a href="https://www.linkedin.com/in/preetikulkarnitorvi/">Data Analyst</a></h1>
+I have an SQL and analytical background working in Oracle Applications Products. I have developed a strong foundation in Data Analysis and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analysis/business analysis as an entry-level data specialist. 
+
+Apart from work, I enjoy attending webinars related to data space, conferences, and meetups and I am always looking for opportunities to expand my knowledge and skills. 
+
+My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+
+This repository is to showcase my skills, share projects, and track my progress in Data Analytics topics.
 
 <h2>👨‍💻 Data Analytics Projects </h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>SQL </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Excel </b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Tableau </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
