@@ -38,9 +38,10 @@ This repository is to showcase my skills, share projects, and track my progress 
 <h2>📺 Certifications</h2>
 
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/HFAA887879Y6)
+- [HackerRank SQL(Basic)](https://www.hackerrank.com/certificates/69a9f9f1cacc)
+- [Introduction to Data Analysis using Excel](https://www.coursera.org/account/accomplishments/verify/GPLEGKK9U79T)
 - [Fundamentals of Visualization using Tableau](https://www.coursera.org/account/accomplishments/verify/39HK6RDV4AVF)
 - [Python for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/VAJQ55CVYHA2)
-- [Introduction to Data Analysis using Excel](https://www.coursera.org/account/accomplishments/verify/GPLEGKK9U79T)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -64,3 +65,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 
