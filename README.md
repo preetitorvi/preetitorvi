@@ -10,6 +10,15 @@ This repository is to showcase my skills, share projects, and track my progress 
 <h2>👨‍💻 Data Analytics Projects </h2>
 
 - <b>SQL </b>
+  - <b>Famous Paintings Exploration Code and Datasets </b>: [FamousPaintingsExploration.sql](https://github.com/preetitorvi/Portfolio-Projects/tree/main/Famous%20Paintings%20SQL%20Project)
+
+     Description: The dataset contains records of famous paintings, artists, and museums records spread over 8 CSV files. This project includes the following steps: data loading using 
+     Python script into PostgreSQL tables, data cleaning and preprocessing, and EDA (exploratory data analysis) and answering a few questions based on the dataset.
+
+     Skills: Table Joins, CTEs, Windows Functions, Aggregate Functions, Converting Data Types
+
+     Technology: SQL
+    
   - <b>Covid 19 Data Exploration Code and Datasets </b>: [COVID Portfolio Project.sql](https://github.com/preetitorvi/Portfolio-Projects/tree/main/Covid%20Data%20Exploration)
 
      Description: The dataset contains records for COVID-19 cases, deaths, and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data 
@@ -17,7 +26,7 @@ This repository is to showcase my skills, share projects, and track my progress 
 
      Skills: Table Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-     Technology: SQL Server
+     Technology: SQL
 
    - <b>Mini Health Analytics Project Code and Dataset </b>: [Mini Health Analytics Project](https://github.com/preetitorvi/Portfolio-Projects/tree/main/SQL%20Project%20Health%20Analytics%20)
 
@@ -26,7 +35,7 @@ This repository is to showcase my skills, share projects, and track my progress 
 
      Skills: Summary Statistics, CTEs, Temp Tables, Aggregate Functions
 
-     Technology: SQL Server
+     Technology: SQL 
 
 - <b>Excel </b>
   - <b> Coffee Sales Dashboard in Excel </b>([Coffee Orders Dashboard in Excel](https://github.com/preetitorvi/Portfolio-Projects/tree/main/Coffee%20Orders%20Dashboard%20in%20Excel))
