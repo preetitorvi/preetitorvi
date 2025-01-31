@@ -1,4 +1,4 @@
-<h1>Hi, I'm Preeti Kulkarni!<br/><a href="https://github.com/preetitorvi"></a> <a href="https://www.linkedin.com/in/preetikulkarnitorvi/">Data Analyst/Business Analyst</a></h1>
+<h1>Hi, I'm Preeti Kulkarni!<br/><a href="https://github.com/preetitorvi"></a> <a href="https://www.linkedin.com/in/preetikulkarnitorvi/">Business Analyst</a></h1>
 I have an SQL and analytical background working in Oracle Applications Products. I have developed a strong foundation in Data Analysis and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analysis/business analysis as an entry-level data specialist. 
 
 Apart from work, I enjoy attending webinars related to data space, conferences, and meetups and I am always looking for opportunities to expand my knowledge and skills. 
